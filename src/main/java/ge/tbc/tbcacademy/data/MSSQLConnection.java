@@ -1,3 +1,5 @@
+package ge.tbc.tbcacademy.data;
+
 import com.microsoft.sqlserver.jdbc.SQLServerDriver;
 
 import java.sql.Connection;

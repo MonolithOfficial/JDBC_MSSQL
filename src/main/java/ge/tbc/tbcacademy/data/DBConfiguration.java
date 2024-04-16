@@ -1,3 +1,5 @@
+package ge.tbc.tbcacademy.data;
+
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;
